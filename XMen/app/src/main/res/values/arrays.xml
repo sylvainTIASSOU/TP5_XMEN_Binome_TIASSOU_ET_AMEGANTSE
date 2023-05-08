@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="noms">
+        <item>Scott Summers</item>
+        <item>Logan</item>
+        <item>Charles Xavier</item>
+        <item>Ororo Munroe</item>
+        <item>Jean Grey</item>
+        <item>Dr. Hank McCoy</item>
+        <item>Rogue</item>
+        <item>Remy LeBeau</item>
+        <item>Jubilation Lee</item>
+        <item>Kevin Sydney</item>
+        <item>Erik Magnus Lehnsherr</item>
+        <item>Graydon Creed, Sr.</item>
+        <item>Cain Marko</item>
+        <item>Bolivar Trask</item>
+        <item>Nathan Christopher Charles Summers</item>
+        <item>Robert Kelly</item>
+        <item>Raven Darkholme</item>
+        <item>Graydon Creed Jr.</item>
+        <item>En Sabah Nur</item>
+        <item>Lucas Bishop</item>
+    </string-array>
+    <string-array name="alias">
+        <item>Cyclops</item>
+        <item>Wolverine</item>
+        <item>Professor X</item>
+        <item>Storm</item>
+        <item>Jean Grey</item>
+        <item>Beast</item>
+        <item>Rogue</item>
+        <item>Gambit</item>
+        <item>Jubilee</item>
+        <item>Morph</item>
+        <item>Magneto</item>
+        <item>Sabretooth</item>
+        <item>Juggernaut</item>
+        <item>Bolivar Trask</item>
+        <item>Cable</item>
+        <item> </item>
+        <item>Mystique</item>
+        <item> </item>
+        <item>Apocalypse</item>
+        <item>Bishop</item>
+    </string-array>
+    <string-array name="confrerie">
+        <item>X-Men</item>
+        <item>X-Men</item>
+        <item>X-Men</item>
+        <item>X-Men</item>
+        <item>X-Men</item>
+        <item>X-Men</item>
+        <item>X-Men</item>
+        <item>X-Men</item>
+        <item>X-Men</item>
+        <item>X-Men</item>
+        <item>Acolytes</item>
+        <item>Team X</item>
+        <item> </item>
+        <item>Mutant Control Agency</item>
+        <item>X-Force</item>
+        <item>Friends of Humanity</item>
+        <item>Brotherhood of Mutants</item>
+        <item>Friends of Humanity</item>
+        <item> </item>
+        <item>X-Men</item>
+    </string-array>
+    <string-array name="descriptions">
+        <item>He is one of the founding members of the X-Men.</item>
+        <item>He is a member of the X-Men. He has a mysterious and confused past</item>
+        <item>He is a powerful telepathic mutant and leader of the X-Men</item>
+        <item>She is a mutant and member of the X-Men. She comes from Africa. She would also be leader of the Morlocks for a long time</item>
+        <item>He is one of the original members of the X-Men. While working as a member of the group, Jean developed romantic feelings for Scott Summers and found herself the center of attention to Wolverine as well.</item>
+        <item>He is one of the original members of the X-Men. He has been with the team throughout its history. He has extensive knowledge in chemistry and biology, whose own research was used to nearly destroy mutantkind. He has also been a member of the Avengers</item>
+        <item>She is a mutant and a member of the X-Men</item>
+        <item>He is a mutant and a member of the X-Men and formerly a member of the Thieves\' Guild</item>
+        <item>She is a mutant and a member of the X-Men.</item>
+        <item>He is a mutant and member of the X-Men</item>
+        <item>He is a revolutionary leader who believes mutants are the next stage of evolution for humanity and are destined to take over the world. He is a friend and enemy to Professor Charles Xavier. He is often an adversary of, though sometimes an ally to, the X-Men.</item>
+        <item>He is a mutant supervillain. He is a former member of Team X and is the archenemy to Wolverine</item>
+        <item>He is the step-brother to Charles Xavier. He used a mystical gem to become the unstoppable Juggernaut</item>
+        <item>He is the man who designed the Sentinels</item>
+        <item>He is a time traveling mutant, mercenary, and leader of X-Force. He spends much of his time trying to take down the evil mutant Apocalypse in the year 3999 AD</item>
+        <item>Kelly served as a Senator and later as President</item>
+        <item>She is a shapeshifting mutant. She is the leader of the Brotherhood of Mutants.</item>
+        <item>He is the son of Sabretooth and Mystique. He was the leader of the anti-mutant hate group Friends of Humanity. </item>
+        <item>He is an extremely powerful and ancient mutant. His ultimate goal is to rule the entire planet. </item>
+        <item>He is a mutant from the future of New York in 2055 AD. He became a time traveller in order to make his present a better place</item>
+    </string-array>
+    <string-array name="pouvoirs">
+        <item>Eye Energy Beams</item>
+        <item>Healing Factor; Animal-Like Senses; Adamantium Claws and Skeleton</item>
+        <item>Telepathy</item>
+        <item>Weather Manipulation; Flight</item>
+        <item>Telekinesis; Telepathy; Phoenix Force</item>
+        <item>Extraordinary Agility; Superhuman Strength; Blue Beast-like Appearance</item>
+        <item>Power Absorption; Memory Absorption; Flight; Super Strength and Durability</item>
+        <item>Kinetically Charge Objects</item>
+        <item>Shoots Explosive Electricity</item>
+        <item>Ability to transform into anyone</item>
+        <item>Generate and Manipulate Magnetic Fields; Control of Magnetism</item>
+        <item>Healing Factor; Superhuman Senses; Enhanced Strength; Claws; Animal-Like Appearance</item>
+        <item>Crimson Gem of Cyttorak; Enormous Strength and Durability; Near Invincibility</item>
+        <item>Genius Intellect</item>
+        <item>Telekinesis; Mechanical Arm; Advanced Weaponry</item>
+        <item>Persuasive Public Speaker</item>
+        <item>Shapeshifting</item>
+        <item> </item>
+        <item>Extreme Strength; Extreme Durability; Shapeshifting; Energy Projection; Size Alteration; Apparent Immortality</item>
+        <item>Energy Absorption and Redirection</item>
+    </string-array>
+    <array name="idimages">
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+        <item>@drawable/img4</item>
+        <item>@drawable/img5</item>
+        <item>@drawable/img6</item>
+        <item>@drawable/img7</item>
+        <item>@drawable/img8</item>
+        <item>@drawable/img9</item>
+        <item>@drawable/img10</item>
+        <item>@drawable/img11</item>
+        <item>@drawable/img12</item>
+        <item>@drawable/img13</item>
+        <item>@drawable/img14</item>
+        <item>@drawable/img15</item>
+        <item>@drawable/img16</item>
+        <item>@drawable/img17</item>
+        <item>@drawable/img18</item>
+        <item>@drawable/img19</item>
+        <item>@drawable/img20</item>
+    </array>
+</resources>
